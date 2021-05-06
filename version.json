@@ -1,0 +1,17 @@
+﻿{
+  "versionCode": 10,
+  "versionName": "1.0.0",
+  "releaseNotes": "",
+  "downloads" : [],
+  "oldVersions": [
+    {
+	  "versionCode": 0,
+	  "issues": "[测试] 当前版本为Beta版本，问题很多，请尽快更新正式版"
+	},
+	{
+	  "versionCode": 0,
+	  "issues": "[测试] 当前版本为Beta版本，请尽快更新正式版"
+	}
+  ],
+  "deprecated": 0
+}

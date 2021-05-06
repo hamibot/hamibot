@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+
+    <com.hamibot.hamibot.theme.widget.ThemeColorSwipeRefreshLayout
+        android:id="@+id/swipe_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.hamibot.hamibot.ui.main.task.TaskListRecyclerView
+            android:id="@+id/task_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </com.hamibot.hamibot.theme.widget.ThemeColorSwipeRefreshLayout>
+
+    <TextView
+        android:id="@+id/notice_no_running_script"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/notice_no_running_script"
+        android:textColor="#adadad"
+        android:textSize="16sp"/>
+
+</FrameLayout>
