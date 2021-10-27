@@ -1,16 +1,12 @@
 # Hamibot
 
+<a href="https://hamibot.com/" ><img src="https://img.shields.io/github/stars/hamibot/hamibot" /></a>
+
 [Hamibot](https://hamibot.com/) 是一款 Android 平台 JavaScript 自动化工具，无需 root，基于 [Auto.js](https://github.com/hyb1996/Auto.js)。
 
-***
+---
 
-![Hamibot](https://repository-images.githubusercontent.com/317106172/7d373900-616e-11eb-9170-ba931b11f1cb)
-
-## 目录
-
-- [提交需求](#-提交需求)
-- [脚本](#-脚本)
-- [链接](#-链接)
+<a href="https://hamibot.com/" ><img src="https://repository-images.githubusercontent.com/317106172/7d373900-616e-11eb-9170-ba931b11f1cb" alt="Hamibot" /></a>
 
 ## 💡 提交需求
 
@@ -33,3 +29,12 @@
 - [如何使用](https://hamibot.com/guide/)
 - [开发文档](https://docs.hamibot.com/)
 - [✨ 精选资源收集](https://github.com/hamibot/awesome-hamibot)
+
+## 🙏 赞助者
+
+| <a href="https://hamibot.com/" ><img src="https://api.prodless.com/avatar.png" alt="王川" /></a> |
+| ------------------------------------------------------------------------------------------------ |
+| <p align="center">王川</p>                                                                       |
+
+<a href="https://hamibot.com/" ><img src="https://reporoster.com/stars/hamibot/hamibot" /></a>
+
