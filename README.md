@@ -30,11 +30,25 @@
 - [开发文档](https://docs.hamibot.com/)
 - [✨ 精选资源收集](https://github.com/hamibot/awesome-hamibot)
 
-## 🙏 赞助者
+## 🙏 赞助
 
-| <a href="https://hamibot.com/" ><img src="https://api.prodless.com/avatar.png" alt="王川" /></a> |
-| ------------------------------------------------------------------------------------------------ |
-| <p align="center">王川</p>                                                                       |
+衷心感谢各位的赞助，如果觉得本项目有益，我们乐意接受任意额度的赞助。
+
+| 称呼 | 方式 |
+| ---- | ---- |
+| 王川 | 微信 |
+| 匿名 | 微信 |
+
+### 赞助方式
+
+欢迎留下你的信息。
+
+| 名称     | 地址                                                                  |
+| -------- | --------------------------------------------------------------------- |
+| 微信     | 请扫描 [官网](https://hamibot.com/) 微信群二维码（在页面底部）进群    |
+| Hamibot  | [请 神秘机师 吃瓜 🍈](https://hamibot.com/marketplace/FLZoI) （打赏） |
+| Bitcoin  | `bc1qxuatng6j8apznh3xelq6as74gev6nm67f34wwy0avqqudhcrxs7shhs692`      |
+| Ethereum | `0xAEA7AA4F62C702Fe68E714BA63A2fd579926cc6d`                          |
 
 <a href="https://hamibot.com/" ><img src="https://reporoster.com/stars/hamibot/hamibot" /></a>
 
