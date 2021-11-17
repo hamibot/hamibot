@@ -34,10 +34,11 @@
 
 衷心感谢各位的赞助，如果觉得本项目有益，我们乐意接受任意额度的赞助。
 
-| 称呼 | 方式 |
-| ---- | ---- |
-| 王川 | 微信 |
-| 匿名 | 微信 |
+| 称呼 | 方式    |
+| ---- | ------- |
+| 王川 | 微信    |
+| 匿名 | 微信    |
+| 匿名 | Hamibot |
 
 ### 赞助方式
 
@@ -51,4 +52,3 @@
 | Ethereum | `0xAEA7AA4F62C702Fe68E714BA63A2fd579926cc6d`                          |
 
 <a href="https://hamibot.com/" ><img src="https://reporoster.com/stars/hamibot/hamibot" /></a>
-
