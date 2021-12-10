@@ -14,11 +14,10 @@
 
 ## 🤖 脚本
 
-- [钉钉打卡](https://hamibot.com/marketplace/T9Kt6)
-- [蚂蚁森林收能量](https://hamibot.com/marketplace/1sYLl)
-- [淘宝芭芭农场种水果](https://hamibot.com/marketplace/o7cPn)
-- [自动京东看一看](https://hamibot.com/marketplace/KFYeQ)
-- [学习强国](https://hamibot.com/marketplace/McXc1)
+- [金银手指微信阅读，每天 0.8 元](https://hamibot.com/marketplace/rmyNc)
+- [四人赛双人对战](https://hamibot.com/marketplace/sp1Lc)
+- [抖音极速版自动刷任务和视频，每天稳定营收](https://hamibot.com/marketplace/3vSTG)
+- [短视频小说多平台刷看-稳定版](https://hamibot.com/marketplace/Vxn8b)
 - [微信好友关系检测](https://hamibot.com/marketplace/dpLw1)
 - [查看更多](https://hamibot.com/marketplace/)
 
@@ -26,19 +25,18 @@
 
 - [官网](https://hamibot.com/)
 - [脚本市场](https://hamibot.com/marketplace/)
-- [如何使用](https://hamibot.com/guide/)
+- [快速上手](https://hamibot.com/guide/)
 - [开发文档](https://docs.hamibot.com/)
+- [REST API](https://docs.hamibot.com/rest/overview)
 - [✨ 精选资源收集](https://github.com/hamibot/awesome-hamibot)
 
 ## 🙏 赞助
 
 衷心感谢各位的赞助，如果觉得本项目有益，我们乐意接受任意额度的赞助。
 
-| 称呼 | 方式    |
-| ---- | ------- |
-| 王川 | 微信    |
-| 匿名 | 微信    |
-| 匿名 | Hamibot |
+| 称呼 | 方式 |
+| ---- | ---- |
+| 王川 | 微信 |
 
 ### 赞助方式
 
@@ -52,3 +50,4 @@
 | Ethereum | `0xAEA7AA4F62C702Fe68E714BA63A2fd579926cc6d`                          |
 
 <a href="https://hamibot.com/" ><img src="https://reporoster.com/stars/hamibot/hamibot" /></a>
+
