@@ -11,6 +11,7 @@ public class OcrResult {
     public boolean success;
     public String text;
     public List<OCrWord> words;
+    public long timeRequired;
 
     public static class OCrWord {
 

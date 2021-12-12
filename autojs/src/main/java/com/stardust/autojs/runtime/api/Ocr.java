@@ -1,5 +1,7 @@
 package com.stardust.autojs.runtime.api;
 
+import android.os.SystemClock;
+
 import com.googlecode.tesseract.android.ResultIterator;
 import com.googlecode.tesseract.android.TessBaseAPI;
 import com.stardust.autojs.annotation.ScriptInterface;
@@ -56,6 +58,7 @@ public class Ocr {
         }
         OcrResult ocrResult = new OcrResult();
         try {
+            long start = SystemClock.currentThreadTimeMillis();
             TessBaseAPI tessBaseAPI = OcrHelper.getInstance().getTessBaseAPI();
             if (tessBaseAPI != null) {
                 tessBaseAPI.setImage(image.getBitmap());
@@ -70,6 +73,7 @@ public class Ocr {
                 } while (resultIterator.next(level));
                 resultIterator.delete();
                 tessBaseAPI.clear();
+                ocrResult.timeRequired = SystemClock.currentThreadTimeMillis() - start;
             }
         } catch (Throwable th) {
             ocrResult.success = false;
