@@ -25,6 +25,7 @@ import com.stardust.autojs.runtime.api.Files;
 import com.stardust.autojs.runtime.api.Floaty;
 import com.stardust.autojs.core.looper.Loopers;
 import com.stardust.autojs.runtime.api.Media;
+import com.stardust.autojs.runtime.api.Ocr;
 import com.stardust.autojs.runtime.api.Plugins;
 import com.stardust.autojs.runtime.api.Sensors;
 import com.stardust.autojs.runtime.api.Threads;
@@ -126,7 +127,6 @@ public class ScriptRuntime {
         public ScriptRuntime build() {
             return new ScriptRuntime(this);
         }
-
     }
 
 
@@ -193,6 +193,9 @@ public class ScriptRuntime {
     @ScriptVariable
     public final Plugins plugins;
 
+    @ScriptVariable
+    public final Ocr ocr;
+
     private Images images;
 
     private static WeakReference<Context> applicationContext;
@@ -225,6 +228,7 @@ public class ScriptRuntime {
         files = new Files(this);
         media = new Media(context, this);
         plugins = new Plugins(context, this);
+        ocr = new Ocr();
     }
 
     public void init() {
