@@ -82,11 +82,6 @@ public class Notification extends ContextWrapper {
         Intent intent = new Intent(this.getBaseContext(), MainActivity.class);
         PendingIntent pendingIntent = PendingIntent.getActivity(this.getBaseContext(),0,intent,0);
 
-//        //播放通知声音
-//        playNotificationRing(this.getBaseContext());
-//        //手机震动一下
-//        playNotificationVibrate(this.getBaseContext());
-
         return new android.app.Notification.Builder(getApplicationContext(), sID)
                 .setContentTitle(title)
                 .setContentText(content)
@@ -100,23 +95,4 @@ public class Notification extends ContextWrapper {
                 .setAutoCancel(true);
     }
 
-
-    /**
-     * 播放通知声音
-     */
-    private static void playNotificationRing(Context context) {
-        Uri uri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
-        Ringtone rt = RingtoneManager.getRingtone(context, uri);
-        rt.play();
-    }
-
-    /**
-     * 手机震动一下
-     */
-    private static void playNotificationVibrate(Context context) {
-        Vibrator vibrator = (Vibrator) context.getSystemService(Service.VIBRATOR_SERVICE);
-        long[] vibrationPattern = new long[]{0, 180, 80, 120};
-        // 第一个参数为开关开关的时间，第二个参数是重复次数，振动需要添加权限
-        vibrator.vibrate(vibrationPattern, -1);
-    }
 }
