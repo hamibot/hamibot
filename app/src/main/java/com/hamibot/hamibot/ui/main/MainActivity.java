@@ -25,6 +25,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.hamibot.hamibot.notification.NotificationUtil;
 import com.stardust.app.FragmentPagerAdapterBuilder;
 import com.stardust.app.OnActivityResultDelegate;
 import com.stardust.autojs.core.permission.OnRequestPermissionsResultCallback;
@@ -48,22 +49,17 @@ import com.hamibot.hamibot.R;
 import com.hamibot.hamibot.autojs.AutoJs;
 import com.hamibot.hamibot.external.foreground.ForegroundService;
 import com.hamibot.hamibot.model.explorer.Explorers;
-import com.hamibot.hamibot.pluginclient.DevPluginService;
 import com.hamibot.hamibot.services.CommandService;
 import com.hamibot.hamibot.tool.AccessibilityServiceTool;
-import com.hamibot.hamibot.tool.Observers;
 import com.hamibot.hamibot.ui.BaseActivity;
 import com.hamibot.hamibot.ui.common.NotAskAgainDialog;
 import com.hamibot.hamibot.ui.doc.DocsFragment_;
-import com.hamibot.hamibot.ui.floating.FloatyWindowManger;
 import com.hamibot.hamibot.ui.log.LogActivity_;
 import com.hamibot.hamibot.ui.main.community.CommunityFragment;
 import com.hamibot.hamibot.ui.main.community.CommunityFragment_;
-import com.hamibot.hamibot.ui.main.market.MarketFragment;
 import com.hamibot.hamibot.ui.main.scripts.MyScriptListFragment_;
 import com.hamibot.hamibot.ui.main.task.TaskManagerFragment_;
 import com.hamibot.hamibot.ui.settings.SettingsActivity_;
-import com.hamibot.hamibot.ui.update.VersionGuard;
 import com.hamibot.hamibot.ui.widget.CommonMarkdownView;
 import com.hamibot.hamibot.ui.widget.SearchViewItem;
 import com.stardust.util.IntentUtil;
@@ -121,6 +117,8 @@ public class MainActivity extends BaseActivity implements OnActivityResultDelega
         // mVersionGuard = new VersionGuard(this); // 版本检查
         // showAnnunciationIfNeeded(); 不显示声明（本软件为免费软件）
         EventBus.getDefault().register(this);
+        //初始化通知
+        NotificationUtil.init(this);
         //applyDayNightMode(); // 应用夜间模式
     }
 
