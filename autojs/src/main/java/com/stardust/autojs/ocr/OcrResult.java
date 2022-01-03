@@ -2,6 +2,7 @@ package com.stardust.autojs.ocr;
 
 import android.graphics.Rect;
 
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -12,6 +13,15 @@ public class OcrResult {
     public String text;
     public List<OCrWord> words;
     public long timeRequired;
+
+    public static OcrResult buildFailResult() {
+        OcrResult ocrResult = new OcrResult();
+        ocrResult.success = false;
+        ocrResult.text = "";
+        ocrResult.words = Collections.emptyList();
+        ocrResult.timeRequired = 0;
+        return ocrResult;
+    }
 
     public static class OCrWord {
 
