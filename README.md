@@ -14,10 +14,12 @@
 
 ## 🤖 脚本
 
-- [金银手指微信阅读，每天 0.8 元](https://hamibot.com/marketplace/rmyNc)
-- [四人赛双人对战](https://hamibot.com/marketplace/sp1Lc)
 - [抖音极速版自动刷任务和视频，每天稳定营收](https://hamibot.com/marketplace/3vSTG)
 - [短视频小说多平台刷看-稳定版](https://hamibot.com/marketplace/Vxn8b)
+- [淘金币](https://hamibot.com/marketplace/oCGTT)
+- [饿了么多任务脚本](https://hamibot.com/marketplace/Ns7T1)
+- [Study](https://hamibot.com/marketplace/1Kw2X)
+- [Auto 学习强国](https://hamibot.com/marketplace/aQlXd)
 - [微信好友关系检测](https://hamibot.com/marketplace/dpLw1)
 - [查看更多](https://hamibot.com/marketplace/)
 
@@ -37,6 +39,8 @@
 | 称呼 | 方式 |
 | ---- | ---- |
 | 王川 | 微信 |
+
+未备注信息的，默认为匿名不显示
 
 ### 赞助方式
 
