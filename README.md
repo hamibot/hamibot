@@ -14,14 +14,14 @@
 
 ## 🤖 脚本
 
+- [头条，抖音，快手极速版——刷广告，刷视频，每天稳定营收](https://hamibot.com/marketplace/nQHGC)
 - [抖音极速版自动刷任务和视频，每天稳定营收](https://hamibot.com/marketplace/3vSTG)
-- [短视频小说多平台刷看-稳定版](https://hamibot.com/marketplace/Vxn8b)
+- [快看点](https://hamibot.com/marketplace/y1FEs)
 - [淘金币](https://hamibot.com/marketplace/oCGTT)
 - [饿了么多任务脚本](https://hamibot.com/marketplace/Ns7T1)
-- [Study](https://hamibot.com/marketplace/1Kw2X)
-- [Auto 学习强国](https://hamibot.com/marketplace/aQlXd)
+- [短视频小说多平台刷看-稳定版](https://hamibot.com/marketplace/Vxn8b)
 - [微信好友关系检测](https://hamibot.com/marketplace/dpLw1)
-- [查看更多](https://hamibot.com/marketplace/)
+- [✨ 查看更多](https://hamibot.com/marketplace/)
 
 ## 🔗 链接
 
