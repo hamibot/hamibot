@@ -34,15 +34,17 @@
 - [微信好友关系检测](https://hamibot.com/marketplace/dpLw1)
 - [✨ 查看更多](https://hamibot.com/marketplace/)
 
-## 🤖 开源脚本
+## ⌨️ 开源脚本
 
-- [auto_xuexiqiangguo/Hamibot](https://github.com/dundunnp/auto_xuexiqiangguo/tree/version-15.51/Hamibot)
+- [auto_xuexiqiangguo/Hamibot 每日拿满 61 分！免 root，四人赛双人对战秒答，安卓端学习强国自动化脚本](https://github.com/dundunnp/auto_xuexiqiangguo/tree/version-15.51/Hamibot)
 
 [![导入脚本到 Hamibot](https://hamibot.com/badge_import.png)](https://hamibot.com/dashboard/scripts/import?url=https%3A%2F%2Fgithub.com%2Fdundunnp%2Fauto_xuexiqiangguo%2Ftree%2Fversion-15.51%2FHamibot)
 
 - [xiangshang-kok/HAUT_AUTO_checkin: 基于 hamibot 的河南工业大学的完美校园打卡](https://github.com/xiangshang-kok/HAUT_AUTO_checkin)
 
 [![导入脚本到 Hamibot](https://hamibot.com/badge_import.png)](https://hamibot.com/dashboard/scripts/import?url=https%3A%2F%2Fgithub.com%2Fxiangshang-kok%2FHAUT_AUTO_checkin)
+
+- [batu1579/script-template: 一个 hamibot 多文件脚本的模板](https://github.com/batu1579/script-template)
 
 [搜索更多开源脚本](https://github.com/search?l=JavaScript&q=hamibot&type=Repositories)
 
