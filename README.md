@@ -20,10 +20,8 @@
 - [快手极速版](https://hamibot.com/marketplace/WTGiL)
 - [钉钉自动打卡](https://hamibot.com/marketplace/XufO7)
 - [【灵初楠】DY极速版稳定营收](https://hamibot.com/marketplace/3vSTG?invite=y6U4XXTxakpyrqGwjJfObR32)
-- [公众号文章更新-专用版](https://hamibot.com/marketplace/Bh55i)
 - [淘宝签到-淘金币-芭芭农场](https://hamibot.com/marketplace/IGPKW)
 - [【灵初楠】奖券世界稳定收益](https://hamibot.com/marketplace/MCYaT)
-- [登录得分](https://hamibot.com/marketplace/R7Ifj?invite=HzZ94uy8DG9yXY7vGRBMnSYG)
 - [饿了么多任务脚本](https://hamibot.com/marketplace/Ns7T1)
 - [奖券世界_vip版](https://hamibot.com/marketplace/mU05p)
 - [韩服地下城与勇士手游dnf(升级、搬砖、深渊，日常紧急副本)](https://hamibot.com/marketplace/hrkpW)
@@ -33,6 +31,7 @@
 - [钉钉自动打卡 Pro](https://hamibot.com/marketplace/zaWuZ)
 - [【灵初楠】悟空浏览器自动刷任务和视频，每天稳定营收](https://hamibot.com/marketplace/8umwY)
 - [闲鱼＊赚闲鱼币任务](https://hamibot.com/marketplace/s85BM)
+- [公众号文章更新-专用版](https://hamibot.com/marketplace/Bh55i)
 - [微信好友关系检测](https://hamibot.com/marketplace/dpLw1)
 - [✨ 查看更多](https://hamibot.com/marketplace/)
 
