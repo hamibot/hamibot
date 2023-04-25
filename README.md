@@ -14,35 +14,26 @@
 
 ## 🤖 脚本
 
+- [快手极速版（通用版）](https://hamibot.com/marketplace/WTGiL)
+- [手机掘金(高级版)](https://hamibot.com/marketplace/UtfAa)
 - [快手标准，极速多合一](https://hamibot.com/marketplace/e1qzz)
-- [快手极速版](https://hamibot.com/marketplace/WTGiL)
-- [钉钉自动打卡](https://hamibot.com/marketplace/XufO7)
-- [钉钉打卡](https://hamibot.com/marketplace/H42bz)
 - [dy极速版刷金币----新版](https://hamibot.com/marketplace/LTvi2)
-- [公众号文章更新-专用版](https://hamibot.com/marketplace/Bh55i)
-- [【灵初楠】DY极速版稳定营收](https://hamibot.com/marketplace/3vSTG)
-- [淘宝签到-淘金币-芭芭农场](https://hamibot.com/marketplace/IGPKW)
+- [（二合一）快手极速&快手普通（养号版）](https://hamibot.com/marketplace/DIMDx)
+- [（三合一）快手极速&快手普通&dy极速（养号版）](https://hamibot.com/marketplace/zpLLE)
 - [扫码刷单神器-支付宝版](https://hamibot.com/marketplace/VEnvB)
-- [【灵初楠】奖券世界稳定收益](https://hamibot.com/marketplace/MCYaT)
-- [钉钉自动打卡 Pro](https://hamibot.com/marketplace/zaWuZ)
-- [奖券世界_vip版](https://hamibot.com/marketplace/mU05p)
-- [京东、苏宁易购、淘宝自动预约抢购（默认京东茅台，理论适用于任意购物APP）](https://hamibot.com/marketplace/hnM2T)
-- [韩服地下城与勇士手游dnf(升级、搬砖、深渊，日常紧急副本)](https://hamibot.com/marketplace/hrkpW)
-- [饿了么多任务脚本](https://hamibot.com/marketplace/Ns7T1)
+- [公众号文章更新-专用版](https://hamibot.com/marketplace/Bh55i)
+- [挂机自动赚米（24小时）](https://hamibot.com/marketplace/npXCh)
+- [淘宝签到-淘金币-芭芭农场](https://hamibot.com/marketplace/IGPKW)
+- [手机掘金(稳定版)](https://hamibot.com/marketplace/htuqP)
+- [扫码刷单神器-云闪付版](https://hamibot.com/marketplace/R3gDu)
+- [【灵初楠】DY极速版稳定营收](https://hamibot.com/marketplace/3vSTG)
+- [快抖四合一](https://hamibot.com/marketplace/keHyZ)
 - [起点全自动抢红包](https://hamibot.com/marketplace/h23UH)
-- [闲鱼＊赚闲鱼币任务](https://hamibot.com/marketplace/s85BM)
-- [快手极速普通（二合一）](https://hamibot.com/marketplace/DIMDx)
+- [快手极速版（养号版）](https://hamibot.com/marketplace/rT74d)
+- [韩服地下城与勇士手游dnf(升级、搬砖、深渊，日常紧急副本)](https://hamibot.com/marketplace/hrkpW)
 - [✨ 查看更多](https://hamibot.com/marketplace/)
 
 ## ⌨️ 开源脚本
-
-- [auto_xuexiqiangguo/Hamibot 每日拿满 61 分！免 root，四人赛双人对战秒答，安卓端学习强国自动化脚本](https://github.com/dundunnp/auto_xuexiqiangguo/tree/version-15.51/Hamibot)
-
-[![导入脚本到 Hamibot](https://hamibot.com/badge_import.png)](https://hamibot.com/dashboard/scripts/import?url=https%3A%2F%2Fgithub.com%2Fdundunnp%2Fauto_xuexiqiangguo%2Ftree%2Fversion-15.51%2FHamibot)
-
-- [xiangshang-kok/HAUT_AUTO_checkin: 基于 hamibot 的河南工业大学的完美校园打卡](https://github.com/xiangshang-kok/HAUT_AUTO_checkin)
-
-[![导入脚本到 Hamibot](https://hamibot.com/badge_import.png)](https://hamibot.com/dashboard/scripts/import?url=https%3A%2F%2Fgithub.com%2Fxiangshang-kok%2FHAUT_AUTO_checkin)
 
 [搜索更多开源脚本](https://github.com/search?l=JavaScript&q=hamibot&type=Repositories)
 
