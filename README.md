@@ -14,23 +14,22 @@
 
 ## 🤖 脚本
 
-- [快手极速版（通用版）](https://hamibot.com/marketplace/WTGiL)
 - [手机掘金(高级版)](https://hamibot.com/marketplace/UtfAa)
+- [扫码刷单神器-支付宝版](https://hamibot.com/marketplace/VEnvB)
+- [快手极速版（通用版）](https://hamibot.com/marketplace/WTGiL)
 - [快手标准，极速多合一](https://hamibot.com/marketplace/e1qzz)
 - [dy极速版刷金币----新版](https://hamibot.com/marketplace/LTvi2)
 - [（二合一）快手极速&快手普通（养号版）](https://hamibot.com/marketplace/DIMDx)
 - [（三合一）快手极速&快手普通&dy极速（养号版）](https://hamibot.com/marketplace/zpLLE)
-- [扫码刷单神器-支付宝版](https://hamibot.com/marketplace/VEnvB)
 - [公众号文章更新-专用版](https://hamibot.com/marketplace/Bh55i)
-- [挂机自动赚米（24小时）](https://hamibot.com/marketplace/npXCh)
 - [淘宝签到-淘金币-芭芭农场](https://hamibot.com/marketplace/IGPKW)
-- [手机掘金(稳定版)](https://hamibot.com/marketplace/htuqP)
+- [韩服地下城与勇士手游dnf(升级、搬砖、深渊，日常紧急副本)](https://hamibot.com/marketplace/hrkpW)
+- [起点全自动抢红包](https://hamibot.com/marketplace/h23UH)
+- [百度极速版（养号版）](https://hamibot.com/marketplace/DMgIu)
 - [扫码刷单神器-云闪付版](https://hamibot.com/marketplace/R3gDu)
 - [【灵初楠】DY极速版稳定营收](https://hamibot.com/marketplace/3vSTG)
-- [快抖四合一](https://hamibot.com/marketplace/keHyZ)
-- [起点全自动抢红包](https://hamibot.com/marketplace/h23UH)
-- [快手极速版（养号版）](https://hamibot.com/marketplace/rT74d)
-- [韩服地下城与勇士手游dnf(升级、搬砖、深渊，日常紧急副本)](https://hamibot.com/marketplace/hrkpW)
+- [【聚合大师】（八合一版）](https://hamibot.com/marketplace/CdQNa)
+- [dy正式版刷金币-----新版](https://hamibot.com/marketplace/WMlfA)
 - [✨ 查看更多](https://hamibot.com/marketplace/)
 
 ## ⌨️ 开源脚本
